@@ -1,0 +1,2 @@
+public class exercise24 {
+}
